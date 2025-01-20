@@ -1,4 +1,4 @@
 flutter:
   version: stable
   dart:
-    version: "2.15.0"  # Specify the Dart SDK version compatible with your project
+    version: ">=2.15.0 <3.3.7"
