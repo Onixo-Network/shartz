@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "463711886346",
+    "project_id": "bubbly-dae95",
+    "storage_bucket": "bubbly-dae95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463711886346:android:620354d51464fa291813f3",
+        "android_client_info": {
+          "package_name": "com.retrytech.bubbly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463711886346-fmtkvbjbl65fgvosneugmao8dnf15gad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrytech.bubbly",
+            "certificate_hash": "ac87e266fab4807e5981e4262a382b1480d76f27"
+          }
+        },
+        {
+          "client_id": "463711886346-b3vpva96nbqqaa4hjjs3ud0kvlhc0msa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJcDArK_Fx5qt2A8JHD4MKj6hNkePVBnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463711886346-b3vpva96nbqqaa4hjjs3ud0kvlhc0msa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
